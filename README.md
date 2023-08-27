@@ -1,2 +1,3 @@
 # Online_Learning_Management_System
-##  A database management system for a platform that offers several online courses.
+##  Designed DBMS for online courses platform. Led full lifecycle: requirements, ER Diagram, relational model and normalization. Optimized SQL queries for enhanced user experience.
+
